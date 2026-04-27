@@ -6,12 +6,10 @@
 
 ## About me
 
-I build production-grade AI systems and high-performance backend infrastructure.  
-15+ years of experience — from firmware on STM32 microcontrollers to real-time  
+I build production-grade AI systems and high-performance backend infrastructure. 15+ years of experience — from firmware on STM32 microcontrollers to real-time  
 LLM-powered platforms processing millions of records daily.
 
-Currently at **Arionkoder** building AI-driven scoring APIs and ETL pipelines on AWS.  
-Also mentoring Master's and PhD students in AI, IoT & Embedded Systems at UBA.
+Currently at building AI-driven scoring APIs and ETL pipelines on AWS. Also mentoring Master's and PhD students in AI, IoT & Embedded Systems at UBA.
 
 ---
 
