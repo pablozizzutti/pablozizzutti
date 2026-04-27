@@ -1,7 +1,6 @@
 # Hi, I'm Pablo Zizzutti 👋
 
-**Senior Software Engineer** · Python · FastAPI · AI/LLM · AWS · GCP  
-Buenos Aires, Argentina 🇦🇷 · EU Work Authorization 🇮🇹
+**Senior Software Engineer** · Python · FastAPI · AI/LLM · AWS · GCP**
 
 ---
 
