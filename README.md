@@ -41,5 +41,5 @@ Currently at building AI-driven scoring APIs and ETL pipelines on AWS. Also ment
 
 ## Find me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo_Zizzutti-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/pablozizzutti)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo_Zizzutti-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/pablo-zizzutti)
 [![Email](https://img.shields.io/badge/Email-pablozizzutti@gmail.com-EA4335?style=flat&logo=gmail)](mailto:pablozizzutti@gmail.com)
